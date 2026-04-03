@@ -2,7 +2,7 @@
 
 A portfolio Netflix imitation website created with HTML, CSS, and JavaScript as part of a front-end development course, focusing on responsive layout, clean design, and basic interactivity.
 
-Live Demo: https://ondrej108.github.io/Netflix-Imitation-website/
+Live Demo: https://ondrej108.github.io/streaming-app-clone/
 
 ## Technologies Used
 
